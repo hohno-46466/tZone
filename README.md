@@ -1,5 +1,8 @@
+# tZone
 
-tZone
+Test/Temporary Zone
+
+<!---
 ====
 
 ## Overview
@@ -41,3 +44,5 @@ undefined.
 See also 00README.txt, if prepared.
 
 Thu Apr  9 14:57:40 JST 2020
+
+-->
