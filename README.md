@@ -1,4 +1,4 @@
-# tZone - Test/Temporary Zone
+# GitHub/tZone - Test/Temporary Zone
 
 <!---
 ====
@@ -44,3 +44,5 @@ See also 00README.txt, if prepared.
 Thu Apr  9 14:57:40 JST 2020
 
 -->
+
+-EOF-
