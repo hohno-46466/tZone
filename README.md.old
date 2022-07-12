@@ -7,7 +7,7 @@ Test/Temporary Zone
      ├──   README.md
      └──   README.md.old
      
-     0 directories, 3 files (Sun Jul 10 12:22:51 JST 2022)
+     0 directories, 3 files (Tue Jul 12 20:56:45 JST 2022)
 
 
     ./tZone--GoogleColab
@@ -16,14 +16,14 @@ Test/Temporary Zone
      ├──   Untitled0_20210520.ipynb
      └──   Untitled1_20220314.ipynb
      
-     0 directories, 4 files (Sun Jul 10 12:22:51 JST 2022)
+     0 directories, 4 files (Tue Jul 12 20:56:45 JST 2022)
 
 
     ./tZone--HelloWorld
      ├──   README.md
      └──   test.txt
      
-     0 directories, 2 files (Sun Jul 10 12:22:51 JST 2022)
+     0 directories, 2 files (Tue Jul 12 20:56:45 JST 2022)
 
 
     ./tZone--ProgrammingPG
@@ -90,7 +90,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──   README.md
      
-     44 directories, 18 files (Sun Jul 10 12:22:51 JST 2022)
+     44 directories, 18 files (Tue Jul 12 20:56:45 JST 2022)
 
 
     ./tZone--ProgrammingSG
@@ -107,7 +107,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──   README.md
      
-     5 directories, 7 files (Sun Jul 10 12:22:51 JST 2022)
+     5 directories, 7 files (Tue Jul 12 20:56:45 JST 2022)
 
 
     ./tZone--workspace--temporary
@@ -156,10 +156,14 @@ Test/Temporary Zone
              ├──   data-20220705-1
              ├──   data-20220705-1_plot-5-3
              ├──   output.gif
+             ├──   output2.jpeg
+             ├──   output3.jpeg
+             ├──   output4.jpeg
+             ├──   output5.jpeg
              ├──   typescript-20220704-1
              └──   typescript-20220704-2
      
-     4 directories, 43 files (Sun Jul 10 12:22:51 JST 2022)
+     4 directories, 47 files (Tue Jul 12 20:56:45 JST 2022)
 
 
 Note:	url = https://github.com/hohno-46466/tZone
