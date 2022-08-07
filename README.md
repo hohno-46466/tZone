@@ -171,8 +171,8 @@ Test/Temporary Zone
      5 directories, 52 files (Mon Aug  8 02:56:14 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/tZone
+Note: URL = https://github.com/hohno-46466/tZone
 
-Note: url = git@github.com:hohno-46466/tZone.git
+Note: URL = git@github.com:hohno-46466/tZone.git
 
 -EOF-
