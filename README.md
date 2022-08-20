@@ -7,7 +7,7 @@ Test/Temporary Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Fri Aug 12 21:57:36 JST 2022)
+     0 directories, 3 files (Sat Aug 20 23:45:41 JST 2022)
 
     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
@@ -16,14 +16,14 @@ Test/Temporary Zone
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Fri Aug 12 21:57:36 JST 2022)
+     0 directories, 5 files (Sat Aug 20 23:45:41 JST 2022)
 
     ./tZone--HelloWorld
      ├──  README.md
      ├──  README.md.old
      └──  test.txt
      
-     0 directories, 3 files (Fri Aug 12 21:57:36 JST 2022)
+     0 directories, 3 files (Sat Aug 20 23:45:41 JST 2022)
 
     ./tZone--ProgrammingPG
      ├──  Csharp/
@@ -90,7 +90,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 19 files (Fri Aug 12 21:57:36 JST 2022)
+     44 directories, 19 files (Sat Aug 20 23:45:42 JST 2022)
 
     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
@@ -107,7 +107,16 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Fri Aug 12 21:57:36 JST 2022)
+     5 directories, 8 files (Sat Aug 20 23:45:42 JST 2022)
+
+    ./tZone--test20190730
+     ├──  README.md
+     ├──  README.md.old
+     ├──  sample.txt
+     ├──  sample2.txt
+     └──  sample3.txt
+     
+     0 directories, 5 files (Sat Aug 20 23:45:42 JST 2022)
 
     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
@@ -117,6 +126,8 @@ Test/Temporary Zone
      │   ├──  20220620-CLOCK_REALTIME-CLOCK_MONOTONIC.txt
      │   ├──  Hello.txt
      │   └──  README.md
+     ├──  tmp/
+     │   └──  NT金沢mini＠石川県立図書館2022（6）.pdf
      └──  workspace/
          ├──  GHCG-2022/
          │   ├──  GHCG-20220707.png
@@ -168,7 +179,7 @@ Test/Temporary Zone
              ├──  typescript-20220704-1
              └──  typescript-20220704-2
      
-     5 directories, 52 files (Fri Aug 12 21:57:36 JST 2022)
+     6 directories, 53 files (Sat Aug 20 23:45:42 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
