@@ -2,30 +2,31 @@
 
 Test/Temporary Zone
 
-    ./tZone/
+    ./tZone
      ├──  00README.txt
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Aug 27 18:14:58 JST 2022)
+     0 directories, 3 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./tZone--GoogleColab/
+    ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
      ├──  README.md
      ├──  README.md.old
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Sat Aug 27 18:14:58 JST 2022)
+     0 directories, 5 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./tZone--HelloWorld/
+    ./tZone--HelloWorld
      ├──  README.md
      ├──  README.md.old
-     └──  test.txt
+     ├──  test.txt
+     └──  update.sh
      
-     0 directories, 3 files (Sat Aug 27 18:14:58 JST 2022)
+     0 directories, 4 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./tZone--ProgrammingPG/
+    ./tZone--ProgrammingPG
      ├──  Csharp/
      │   ├──  1週間でC＃の基礎が学べる本 -> Csharp_basics_in_a_week
      │   ├──  Csharp_basics_in_a_week/
@@ -90,9 +91,9 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 19 files (Sat Aug 27 18:14:58 JST 2022)
+     44 directories, 19 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./tZone--ProgrammingSG/
+    ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
      ├──  Csharp/
      │   └──  README.md
@@ -107,18 +108,18 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Sat Aug 27 18:14:58 JST 2022)
+     5 directories, 8 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./tZone--test20190730/
+    ./tZone--test20190730
      ├──  README.md
      ├──  README.md.old
      ├──  sample.txt
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Sat Aug 27 18:14:58 JST 2022)
+     0 directories, 5 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./tZone--workspace--temporary/
+    ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -134,6 +135,7 @@ Test/Temporary Zone
          │   ├──  GHCG-20220714.png
          │   ├──  GHCG-20220721.png
          │   ├──  GHCG-20220804.png
+         │   ├──  GHCG-20220830.png
          │   └──  README.md
          ├──  README.md
          ├──  atomicClock-202206-MBP2016B-1/
@@ -179,7 +181,7 @@ Test/Temporary Zone
              ├──  typescript-20220704-1
              └──  typescript-20220704-2
      
-     6 directories, 53 files (Sat Aug 27 18:14:58 JST 2022)
+     6 directories, 54 files (Sat Sep  3 16:13:27 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
