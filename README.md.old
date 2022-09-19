@@ -7,7 +7,7 @@ Test/Temporary Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Sep  3 17:30:09 JST 2022)
+     0 directories, 3 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
@@ -16,7 +16,7 @@ Test/Temporary Zone
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Sat Sep  3 17:30:09 JST 2022)
+     0 directories, 5 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./tZone--HelloWorld
      ├──  README.md
@@ -24,7 +24,7 @@ Test/Temporary Zone
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Sat Sep  3 17:30:09 JST 2022)
+     0 directories, 4 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./tZone--ProgrammingPG
      ├──  Csharp/
@@ -91,7 +91,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 19 files (Sat Sep  3 17:30:10 JST 2022)
+     44 directories, 19 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
@@ -108,7 +108,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Sat Sep  3 17:30:10 JST 2022)
+     5 directories, 8 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./tZone--test20190730
      ├──  README.md
@@ -117,7 +117,7 @@ Test/Temporary Zone
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Sat Sep  3 17:30:10 JST 2022)
+     0 directories, 5 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
@@ -164,24 +164,28 @@ Test/Temporary Zone
          │   ├──  typescript-20220619-5
          │   ├──  typescript-20220619-6
          │   └──  typescript-20220619-7
-         └──  atomicClock-202207-MBP2016B-1/
-             ├──  README.md
-             ├──  afo.plot
-             ├──  afo2.plot
-             ├──  data-20220704-1
-             ├──  data-20220704-1_plot-5-3
-             ├──  data-20220704-2
-             ├──  data-20220705-1
-             ├──  data-20220705-1_plot-5-3
-             ├──  output.gif
-             ├──  output2.jpeg
-             ├──  output3.jpeg
-             ├──  output4.jpeg
-             ├──  output5.jpeg
-             ├──  typescript-20220704-1
-             └──  typescript-20220704-2
+         ├──  atomicClock-202207-MBP2016B-1/
+         │   ├──  README.md
+         │   ├──  afo.plot
+         │   ├──  afo2.plot
+         │   ├──  data-20220704-1
+         │   ├──  data-20220704-1_plot-5-3
+         │   ├──  data-20220704-2
+         │   ├──  data-20220705-1
+         │   ├──  data-20220705-1_plot-5-3
+         │   ├──  output.gif
+         │   ├──  output2.jpeg
+         │   ├──  output3.jpeg
+         │   ├──  output4.jpeg
+         │   ├──  output5.jpeg
+         │   ├──  typescript-20220704-1
+         │   └──  typescript-20220704-2
+         ├──  tarball.tgz.zip
+         └──  widecamp2209/
+             ├──  bill0004.pdf.pdf
+             └──  statement0004.pdf.pdf
      
-     6 directories, 54 files (Sat Sep  3 17:30:10 JST 2022)
+     7 directories, 57 files (Tue Sep  6 22:12:24 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone

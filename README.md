@@ -2,31 +2,31 @@
 
 Test/Temporary Zone
 
-    ./tZone
+     ./tZone
      ├──  00README.txt
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Tue Sep  6 22:12:24 JST 2022)
+     0 directories, 3 files (Mon Sep 19 13:31:28 JST 2022)
 
-    ./tZone--GoogleColab
+     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
      ├──  README.md
      ├──  README.md.old
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Tue Sep  6 22:12:24 JST 2022)
+     0 directories, 5 files (Mon Sep 19 13:31:28 JST 2022)
 
-    ./tZone--HelloWorld
+     ./tZone--HelloWorld
      ├──  README.md
      ├──  README.md.old
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Tue Sep  6 22:12:24 JST 2022)
+     0 directories, 4 files (Mon Sep 19 13:31:28 JST 2022)
 
-    ./tZone--ProgrammingPG
+     ./tZone--ProgrammingPG
      ├──  Csharp/
      │   ├──  1週間でC＃の基礎が学べる本 -> Csharp_basics_in_a_week
      │   ├──  Csharp_basics_in_a_week/
@@ -37,6 +37,7 @@ Test/Temporary Zone
      │   │   ├──  Day5/
      │   │   ├──  Day6/
      │   │   ├──  Day7/
+     │   │   ├──  HowToBuildIt.txt
      │   │   └──  README.md
      │   ├──  MQTT/
      │   │   └──  workspace/
@@ -91,9 +92,9 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 19 files (Tue Sep  6 22:12:24 JST 2022)
+     44 directories, 20 files (Mon Sep 19 13:31:28 JST 2022)
 
-    ./tZone--ProgrammingSG
+     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
      ├──  Csharp/
      │   └──  README.md
@@ -108,18 +109,18 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Tue Sep  6 22:12:24 JST 2022)
+     5 directories, 8 files (Mon Sep 19 13:31:28 JST 2022)
 
-    ./tZone--test20190730
+     ./tZone--test20190730
      ├──  README.md
      ├──  README.md.old
      ├──  sample.txt
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Tue Sep  6 22:12:24 JST 2022)
+     0 directories, 5 files (Mon Sep 19 13:31:28 JST 2022)
 
-    ./tZone--workspace--temporary
+     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -128,7 +129,8 @@ Test/Temporary Zone
      │   ├──  Hello.txt
      │   └──  README.md
      ├──  tmp/
-     │   └──  NT金沢mini＠石川県立図書館2022（6）.pdf
+     │   ├──  NT金沢mini＠石川県立図書館2022（6）.pdf
+     │   └──  afo.out
      └──  workspace/
          ├──  GHCG-2022/
          │   ├──  GHCG-20220707.png
@@ -185,7 +187,7 @@ Test/Temporary Zone
              ├──  bill0004.pdf.pdf
              └──  statement0004.pdf.pdf
      
-     7 directories, 57 files (Tue Sep  6 22:12:24 JST 2022)
+     7 directories, 58 files (Mon Sep 19 13:31:28 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
