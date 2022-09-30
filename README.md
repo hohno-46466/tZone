@@ -2,31 +2,31 @@
 
 Test/Temporary Zone
 
-     ./tZone
+    ./tZone
      ├──  00README.txt
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Sep 24 17:44:37 JST 2022)
+     0 directories, 3 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./tZone--GoogleColab
+    ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
      ├──  README.md
      ├──  README.md.old
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Sat Sep 24 17:44:37 JST 2022)
+     0 directories, 5 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./tZone--HelloWorld
+    ./tZone--HelloWorld
      ├──  README.md
      ├──  README.md.old
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Sat Sep 24 17:44:37 JST 2022)
+     0 directories, 4 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./tZone--ProgrammingPG
+    ./tZone--ProgrammingPG
      ├──  Csharp/
      │   ├──  1週間でC＃の基礎が学べる本 -> Csharp_basics_in_a_week
      │   ├──  Csharp_basics_in_a_week/
@@ -92,9 +92,9 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 20 files (Sat Sep 24 17:44:37 JST 2022)
+     44 directories, 20 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./tZone--ProgrammingSG
+    ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
      ├──  Csharp/
      │   └──  README.md
@@ -109,18 +109,18 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Sat Sep 24 17:44:37 JST 2022)
+     5 directories, 8 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./tZone--test20190730
+    ./tZone--test20190730
      ├──  README.md
      ├──  README.md.old
      ├──  sample.txt
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Sat Sep 24 17:44:37 JST 2022)
+     0 directories, 5 files (Fri Sep 30 22:02:06 JST 2022)
 
-     ./tZone--workspace--temporary
+    ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
      ├──  README.md
      ├──  README.md.old
@@ -187,7 +187,7 @@ Test/Temporary Zone
              ├──  bill0004.pdf.pdf
              └──  statement0004.pdf.pdf
      
-     7 directories, 58 files (Sat Sep 24 17:44:37 JST 2022)
+     7 directories, 58 files (Fri Sep 30 22:02:06 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
