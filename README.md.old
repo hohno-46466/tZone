@@ -7,7 +7,7 @@ Test/Temporary Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Tue Oct 18 01:50:02 JST 2022)
+     0 directories, 3 files (Sat Oct 22 06:09:41 JST 2022)
 
     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
@@ -16,7 +16,7 @@ Test/Temporary Zone
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Tue Oct 18 01:50:02 JST 2022)
+     0 directories, 5 files (Sat Oct 22 06:09:41 JST 2022)
 
     ./tZone--HelloWorld
      ├──  README.md
@@ -24,7 +24,7 @@ Test/Temporary Zone
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Tue Oct 18 01:50:02 JST 2022)
+     0 directories, 4 files (Sat Oct 22 06:09:41 JST 2022)
 
     ./tZone--ProgrammingPG
      ├──  Csharp/
@@ -92,7 +92,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 20 files (Tue Oct 18 01:50:02 JST 2022)
+     44 directories, 20 files (Sat Oct 22 06:09:41 JST 2022)
 
     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
@@ -109,7 +109,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Tue Oct 18 01:50:02 JST 2022)
+     5 directories, 8 files (Sat Oct 22 06:09:41 JST 2022)
 
     ./tZone--test20190730
      ├──  README.md
@@ -118,7 +118,7 @@ Test/Temporary Zone
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Tue Oct 18 01:50:02 JST 2022)
+     0 directories, 5 files (Sat Oct 22 06:09:41 JST 2022)
 
     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
@@ -130,7 +130,17 @@ Test/Temporary Zone
      │   └──  README.md
      ├──  tmp/
      │   ├──  NT金沢mini＠石川県立図書館2022（6）.pdf
-     │   └──  afo.out
+     │   ├──  afo.out
+     │   └──  pdftest/
+     │       ├──  Activities of the MON Team（名刺カード用）.pdf
+     │       ├──  doit.sh
+     │       ├──  input0.pdf -> Activities of the MON Team（名刺カード用）.pdf
+     │       ├──  input1.pdf -> テストスライド （元は某総合スライド）.pdf
+     │       ├──  input2.pdf -> テストスライド２ （元は某総合スライド）.pdf
+     │       ├──  out.pdf
+     │       ├──  output-by-doit.pdf
+     │       ├──  テストスライド （元は某総合スライド）.pdf
+     │       └──  テストスライド２ （元は某総合スライド）.pdf
      └──  workspace/
          ├──  GHCG-2022/
          │   ├──  GHCG-20220707.png
@@ -187,7 +197,7 @@ Test/Temporary Zone
              ├──  bill0004.pdf.pdf
              └──  statement0004.pdf.pdf
      
-     7 directories, 58 files (Tue Oct 18 01:50:02 JST 2022)
+     8 directories, 67 files (Sat Oct 22 06:09:41 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
