@@ -7,7 +7,7 @@ Test/Temporary Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Oct 22 22:04:42 JST 2022)
+     0 directories, 3 files (Mon Oct 31 12:37:52 JST 2022)
 
     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
@@ -16,7 +16,7 @@ Test/Temporary Zone
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Sat Oct 22 22:04:42 JST 2022)
+     0 directories, 5 files (Mon Oct 31 12:37:52 JST 2022)
 
     ./tZone--HelloWorld
      ├──  README.md
@@ -24,7 +24,7 @@ Test/Temporary Zone
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Sat Oct 22 22:04:42 JST 2022)
+     0 directories, 4 files (Mon Oct 31 12:37:52 JST 2022)
 
     ./tZone--ProgrammingPG
      ├──  Csharp/
@@ -92,7 +92,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 20 files (Sat Oct 22 22:04:42 JST 2022)
+     44 directories, 20 files (Mon Oct 31 12:37:52 JST 2022)
 
     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
@@ -109,7 +109,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Sat Oct 22 22:04:42 JST 2022)
+     5 directories, 8 files (Mon Oct 31 12:37:52 JST 2022)
 
     ./tZone--test20190730
      ├──  README.md
@@ -118,7 +118,7 @@ Test/Temporary Zone
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Sat Oct 22 22:04:43 JST 2022)
+     0 directories, 5 files (Mon Oct 31 12:37:52 JST 2022)
 
     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
@@ -128,9 +128,10 @@ Test/Temporary Zone
      │   ├──  20220620-CLOCK_REALTIME-CLOCK_MONOTONIC.txt
      │   ├──  Hello.txt
      │   └──  README.md
+     ├──  misc/
+     │   └──  COMMON.SHLIB
      ├──  tmp/
      │   ├──  NT金沢mini＠石川県立図書館2022（6）.pdf
-     │   ├──  afo.out
      │   └──  pdftest/
      │       ├──  Activities of the MON Team（名刺カード用）.pdf
      │       ├──  doit.sh
@@ -197,7 +198,7 @@ Test/Temporary Zone
              ├──  bill0004.pdf.pdf
              └──  statement0004.pdf.pdf
      
-     8 directories, 67 files (Sat Oct 22 22:04:43 JST 2022)
+     9 directories, 67 files (Mon Oct 31 12:37:52 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
