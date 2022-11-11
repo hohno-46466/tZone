@@ -4,10 +4,11 @@ Test/Temporary Zone
 
     ./tZone
      ├──  00README.txt
+     ├──  00README.txt.bak
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Nov  5 00:04:54 JST 2022)
+     0 directories, 4 files (Fri Nov 11 05:33:26 JST 2022)
 
     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
@@ -16,7 +17,7 @@ Test/Temporary Zone
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Sat Nov  5 00:04:54 JST 2022)
+     0 directories, 5 files (Fri Nov 11 05:33:26 JST 2022)
 
     ./tZone--HelloWorld
      ├──  README.md
@@ -24,7 +25,7 @@ Test/Temporary Zone
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Sat Nov  5 00:04:54 JST 2022)
+     0 directories, 4 files (Fri Nov 11 05:33:26 JST 2022)
 
     ./tZone--ProgrammingPG
      ├──  Csharp/
@@ -92,7 +93,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 20 files (Sat Nov  5 00:04:54 JST 2022)
+     44 directories, 20 files (Fri Nov 11 05:33:26 JST 2022)
 
     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
@@ -109,7 +110,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Sat Nov  5 00:04:54 JST 2022)
+     5 directories, 8 files (Fri Nov 11 05:33:26 JST 2022)
 
     ./tZone--test20190730
      ├──  README.md
@@ -118,10 +119,14 @@ Test/Temporary Zone
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Sat Nov  5 00:04:55 JST 2022)
+     0 directories, 5 files (Fri Nov 11 05:33:26 JST 2022)
 
     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
+     ├──  IPSJ-DPSWS2022030/
+     │   └──  IPSJ-DPSWS2022030.pdf
+     ├──  JSiSE/
+     │   └──  TR-037-04-05.pdf
      ├──  README.md
      ├──  README.md.old
      ├──  memo/
@@ -131,7 +136,14 @@ Test/Temporary Zone
      ├──  misc/
      │   └──  COMMON.SHLIB
      ├──  tmp/
+     │   ├──  IPSJ-DPSWS2022030.pdf
      │   ├──  NT金沢mini＠石川県立図書館2022（6）.pdf
+     │   ├──  QRcode/
+     │   │   ├──  QRcode=hohno-46466_github_io.gif
+     │   │   ├──  QRcode=hohno-46466_github_io.jpeg
+     │   │   ├──  QRcode=hohno-46466_github_io.png
+     │   │   ├──  QRcode=hohno-46466_github_io.svg
+     │   │   └──  testQR.png
      │   └──  pdftest/
      │       ├──  Activities of the MON Team（名刺カード用）.pdf
      │       ├──  doit.sh
@@ -150,6 +162,7 @@ Test/Temporary Zone
          │   ├──  GHCG-20220804.png
          │   ├──  GHCG-20220830.png
          │   └──  README.md
+         ├──  IPSJ-DigitalPractive54/
          ├──  README.md
          ├──  atomicClock-202206-MBP2016B-1/
          │   ├──  00memo.txt
@@ -198,7 +211,7 @@ Test/Temporary Zone
              ├──  bill0004.pdf.pdf
              └──  statement0004.pdf.pdf
      
-     9 directories, 67 files (Sat Nov  5 00:04:55 JST 2022)
+     13 directories, 75 files (Fri Nov 11 05:33:26 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
