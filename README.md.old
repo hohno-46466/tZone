@@ -8,7 +8,7 @@ Test/Temporary Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 4 files (Wed Nov 23 10:36:58 JST 2022)
+     0 directories, 4 files (Mon Nov 28 14:16:18 JST 2022)
 
     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
@@ -17,7 +17,7 @@ Test/Temporary Zone
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Wed Nov 23 10:36:58 JST 2022)
+     0 directories, 5 files (Mon Nov 28 14:16:18 JST 2022)
 
     ./tZone--HelloWorld
      ├──  README.md
@@ -25,7 +25,7 @@ Test/Temporary Zone
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Wed Nov 23 10:36:58 JST 2022)
+     0 directories, 4 files (Mon Nov 28 14:16:18 JST 2022)
 
     ./tZone--ProgrammingPG
      ├──  Csharp/
@@ -39,6 +39,7 @@ Test/Temporary Zone
      │   │   ├──  Day6/
      │   │   ├──  Day7/
      │   │   ├──  HowToBuildIt.txt
+     │   │   ├──  HowToBuildIt.txt.bak
      │   │   └──  README.md
      │   ├──  MQTT/
      │   │   └──  workspace/
@@ -83,9 +84,12 @@ Test/Temporary Zone
      │   │   └──  example.html
      │   └──  template/
      │       ├──  template-MQTT.html
+     │       ├──  template-MQTT.html.bak
      │       ├──  template-MQTT.js
+     │       ├──  template-MQTT.js.bak
      │       ├──  template.html
-     │       └──  template.js
+     │       ├──  template.js
+     │       └──  template.js.bak
      ├──  Python/
      │   └──  README.md
      ├──  README.md
@@ -93,7 +97,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 20 files (Wed Nov 23 10:36:58 JST 2022)
+     44 directories, 24 files (Mon Nov 28 14:16:18 JST 2022)
 
     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
@@ -110,7 +114,7 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Wed Nov 23 10:36:58 JST 2022)
+     5 directories, 8 files (Mon Nov 28 14:16:18 JST 2022)
 
     ./tZone--test20190730
      ├──  README.md
@@ -119,7 +123,7 @@ Test/Temporary Zone
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Wed Nov 23 10:36:58 JST 2022)
+     0 directories, 5 files (Mon Nov 28 14:16:18 JST 2022)
 
     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
@@ -144,16 +148,18 @@ Test/Temporary Zone
      │   │   ├──  QRcode=hohno-46466_github_io.png
      │   │   ├──  QRcode=hohno-46466_github_io.svg
      │   │   └──  testQR.png
-     │   └──  pdftest/
-     │       ├──  Activities of the MON Team（名刺カード用）.pdf
-     │       ├──  doit.sh
-     │       ├──  input0.pdf -> Activities of the MON Team（名刺カード用）.pdf
-     │       ├──  input1.pdf -> テストスライド （元は某総合スライド）.pdf
-     │       ├──  input2.pdf -> テストスライド２ （元は某総合スライド）.pdf
-     │       ├──  out.pdf
-     │       ├──  output-by-doit.pdf
-     │       ├──  テストスライド （元は某総合スライド）.pdf
-     │       └──  テストスライド２ （元は某総合スライド）.pdf
+     │   ├──  pdftest/
+     │   │   ├──  Activities of the MON Team（名刺カード用）.pdf
+     │   │   ├──  doit.sh
+     │   │   ├──  input0.pdf -> Activities of the MON Team（名刺カード用）.pdf
+     │   │   ├──  input1.pdf -> テストスライド （元は某総合スライド）.pdf
+     │   │   ├──  input2.pdf -> テストスライド２ （元は某総合スライド）.pdf
+     │   │   ├──  out.pdf
+     │   │   ├──  output-by-doit.pdf
+     │   │   ├──  テストスライド （元は某総合スライド）.pdf
+     │   │   └──  テストスライド２ （元は某総合スライド）.pdf
+     │   ├──  print (1).pdf
+     │   └──  print (2).pdf
      └──  workspace/
          ├──  GHCG-2022/
          │   ├──  GHCG-20220707.png
@@ -211,7 +217,7 @@ Test/Temporary Zone
              ├──  bill0004.pdf.pdf
              └──  statement0004.pdf.pdf
      
-     13 directories, 75 files (Wed Nov 23 10:36:59 JST 2022)
+     13 directories, 77 files (Mon Nov 28 14:16:18 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
