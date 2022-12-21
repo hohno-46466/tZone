@@ -2,32 +2,31 @@
 
 Test/Temporary Zone
 
-    ./tZone
+     ./tZone
      ├──  00README.txt
-     ├──  00README.txt.bak
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 4 files (Mon Dec 19 20:50:55 JST 2022)
+     0 directories, 3 files (Tue Dec 20 21:42:57 JST 2022)
 
-    ./tZone--GoogleColab
+     ./tZone--GoogleColab
      ├──  Colaboratory_へようこそ.ipynb
      ├──  README.md
      ├──  README.md.old
      ├──  Untitled0_20210520.ipynb
      └──  Untitled1_20220314.ipynb
      
-     0 directories, 5 files (Mon Dec 19 20:50:55 JST 2022)
+     0 directories, 5 files (Tue Dec 20 21:42:57 JST 2022)
 
-    ./tZone--HelloWorld
+     ./tZone--HelloWorld
      ├──  README.md
      ├──  README.md.old
      ├──  test.txt
      └──  update.sh
      
-     0 directories, 4 files (Mon Dec 19 20:50:55 JST 2022)
+     0 directories, 4 files (Tue Dec 20 21:42:57 JST 2022)
 
-    ./tZone--ProgrammingPG
+     ./tZone--ProgrammingPG
      ├──  Csharp/
      │   ├──  1週間でC＃の基礎が学べる本 -> Csharp_basics_in_a_week
      │   ├──  Csharp_basics_in_a_week/
@@ -39,7 +38,6 @@ Test/Temporary Zone
      │   │   ├──  Day6/
      │   │   ├──  Day7/
      │   │   ├──  HowToBuildIt.txt
-     │   │   ├──  HowToBuildIt.txt.bak
      │   │   └──  README.md
      │   ├──  MQTT/
      │   │   └──  workspace/
@@ -84,12 +82,9 @@ Test/Temporary Zone
      │   │   └──  example.html
      │   └──  template/
      │       ├──  template-MQTT.html
-     │       ├──  template-MQTT.html.bak
      │       ├──  template-MQTT.js
-     │       ├──  template-MQTT.js.bak
      │       ├──  template.html
-     │       ├──  template.js
-     │       └──  template.js.bak
+     │       └──  template.js
      ├──  Python/
      │   └──  README.md
      ├──  README.md
@@ -97,9 +92,9 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     44 directories, 24 files (Mon Dec 19 20:50:55 JST 2022)
+     44 directories, 20 files (Tue Dec 20 21:42:57 JST 2022)
 
-    ./tZone--ProgrammingSG
+     ./tZone--ProgrammingSG
      ├──  ==PrivateRepository==
      ├──  Csharp/
      │   └──  README.md
@@ -114,18 +109,18 @@ Test/Temporary Zone
      └──  SQLite/
          └──  README.md
      
-     5 directories, 8 files (Mon Dec 19 20:50:55 JST 2022)
+     5 directories, 8 files (Tue Dec 20 21:42:58 JST 2022)
 
-    ./tZone--test20190730
+     ./tZone--test20190730
      ├──  README.md
      ├──  README.md.old
      ├──  sample.txt
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Mon Dec 19 20:50:55 JST 2022)
+     0 directories, 5 files (Tue Dec 20 21:42:58 JST 2022)
 
-    ./tZone--workspace--temporary
+     ./tZone--workspace--temporary
      ├──  ==PrivateRepository==
      ├──  IPSJ-DPSWS2022030/
      │   └──  IPSJ-DPSWS2022030.pdf
@@ -148,12 +143,16 @@ Test/Temporary Zone
      │   │   ├──  QRcode=hohno-46466_github_io.png
      │   │   ├──  QRcode=hohno-46466_github_io.svg
      │   │   └──  testQR.png
+     │   ├──  aaa
      │   ├──  bash_profile-hohno-MBP-2022P
-     │   ├──  mutt.memo
+     │   ├──  getmail+mutt/
+     │   │   ├──  00doit.sh
+     │   │   ├──  getmailrc-ohnolab
+     │   │   ├──  mutt.memo
+     │   │   └──  muttrc
      │   ├──  pdftest/
-     │   │   ├──  Activities of the MON Team（名刺カード用）.pdf
+     │   │   ├──  Activities of the MON Team（名刺カード用）.pdf
      │   │   ├──  doit.sh
-     │   │   ├──  doit.sh.bak
      │   │   ├──  input0.pdf -> Activities of the MON Team（名刺カード用）.pdf
      │   │   ├──  input1.pdf -> テストスライド （元は某総合スライド）.pdf
      │   │   ├──  input2.pdf -> テストスライド２ （元は某総合スライド）.pdf
@@ -171,7 +170,6 @@ Test/Temporary Zone
          │   ├──  GHCG-20220804.png
          │   ├──  GHCG-20220830.png
          │   └──  README.md
-         ├──  IPSJ-DigitalPractive54/
          ├──  README.md
          ├──  atomicClock-202206-MBP2016B-1/
          │   ├──  00memo.txt
@@ -220,7 +218,7 @@ Test/Temporary Zone
              ├──  bill0004.pdf.pdf
              └──  statement0004.pdf.pdf
      
-     13 directories, 80 files (Mon Dec 19 20:50:55 JST 2022)
+     13 directories, 83 files (Tue Dec 20 21:42:58 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/tZone
